@@ -1,2 +1,0 @@
-# tickflow-privacy
-Privacy Policy
